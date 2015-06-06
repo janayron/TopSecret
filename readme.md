@@ -1,5 +1,6 @@
 Python Exercises
 
-by Jed
+* Lesson 1
 
-Anayron
+by Jed Anayron
+
