@@ -1,0 +1,7 @@
+Lesson 1
+
+Write a program that prints a number from 500 to 1.
+For multiples of 5 print "cool" instead of the number.
+For numbers with are multiples of 5 and 2 print "dude".
+
+name the file as "lesson1.py"
