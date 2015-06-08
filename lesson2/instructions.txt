@@ -1,6 +1,13 @@
 Lesson 2
 
+A. Create a program that ask for a name and a time and prints greetings depending on the time given.
 
+    Ex. Input: "Ben" "9:00"
+        Output:  "Good morning, Ben!"
 
+        Input: "Ben" "13:00"
+        "Good afternoon, Ben!"
+    
+    * Use a function in your implementation.
 
-Exercises
+Add the exercises in a file "lesson2.py"
